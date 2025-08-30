@@ -12,11 +12,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
+| [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
