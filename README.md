@@ -59,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
+## Database
+|  |
+| ------- |
+| [1827-invalid-tweets](https://github.com/Muhammedshibil-123/leetcode/tree/master/1827-invalid-tweets) |
 <!---LeetCode Topics End-->
