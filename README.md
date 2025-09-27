@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muhammedshibil-123/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
+| [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
 |  |
