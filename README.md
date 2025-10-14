@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Muhammedshibil-123/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Muhammedshibil-123/leetcode/tree/master/0035-search-insert-position) |
 | [0064-minimum-path-sum](https://github.com/Muhammedshibil-123/leetcode/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/Muhammedshibil-123/leetcode/tree/master/0066-plus-one) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Muhammedshibil-123/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Muhammedshibil-123/leetcode/tree/master/0066-plus-one) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
