@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Muhammedshibil-123/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Muhammedshibil-123/leetcode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Muhammedshibil-123/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Muhammedshibil-123/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Muhammedshibil-123/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
 ## Database
 |  |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Muhammedshibil-123/leetcode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
