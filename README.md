@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Muhammedshibil-123/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Muhammedshibil-123/leetcode/tree/master/0069-sqrtx) |
+| [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
