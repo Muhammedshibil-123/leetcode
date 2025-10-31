@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Muhammedshibil-123/leetcode/tree/master/0175-combine-two-tables) |
 | [1827-invalid-tweets](https://github.com/Muhammedshibil-123/leetcode/tree/master/1827-invalid-tweets) |
 ## Counting
 |  |
