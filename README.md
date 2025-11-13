@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2481-strictly-palindromic-number) |
 ## String
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
