@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Muhammedshibil-123/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
 ## Database
 |  |
