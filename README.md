@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Brainteaser
 |  |
 | ------- |
