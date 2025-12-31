@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Muhammedshibil-123/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Muhammedshibil-123/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
 |  |
