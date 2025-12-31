@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Muhammedshibil-123/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
+| [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
 ## Database
 |  |
 | ------- |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -170,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
