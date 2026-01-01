@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2481-strictly-palindromic-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
