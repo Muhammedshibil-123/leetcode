@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2058-concatenation-of-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2058-concatenation-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Muhammedshibil-123/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Muhammedshibil-123/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Muhammedshibil-123/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Math
