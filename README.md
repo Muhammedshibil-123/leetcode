@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
 | [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/Muhammedshibil-123/leetcode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/2481-strictly-palindromic-number) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [1486-xor-operation-in-an-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/1486-xor-operation-in-an-array) |
 ## Greedy
 |  |
 | ------- |
