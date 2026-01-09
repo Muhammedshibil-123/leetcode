@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Muhammedshibil-123/leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Muhammedshibil-123/leetcode/tree/master/3024-type-of-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/Muhammedshibil-123/leetcode/tree/master/2752-sum-multiples) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Muhammedshibil-123/leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3024-type-of-triangle](https://github.com/Muhammedshibil-123/leetcode/tree/master/3024-type-of-triangle) |
 | [3567-convert-date-to-binary](https://github.com/Muhammedshibil-123/leetcode/tree/master/3567-convert-date-to-binary) |
 ## Linked List
 |  |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
+| [3024-type-of-triangle](https://github.com/Muhammedshibil-123/leetcode/tree/master/3024-type-of-triangle) |
 ## Divide and Conquer
 |  |
 | ------- |
