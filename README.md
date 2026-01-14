@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Muhammedshibil-123/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Muhammedshibil-123/leetcode/tree/master/0412-fizz-buzz) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1448-maximum-69-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/1448-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/1486-xor-operation-in-an-array) |
 | [1903-largest-odd-number-in-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/1903-largest-odd-number-in-string) |
