@@ -7,9 +7,7 @@ class Solution:
                     return False
                 else:
                     f=copy.index(s[i])
-                    print(f)
                     copy.pop(f)
-                    print(copy)
                     continue 
             return True
         else:
