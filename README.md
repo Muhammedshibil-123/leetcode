@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammedshibil-123/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0682-baseball-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/0682-baseball-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Muhammedshibil-123/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammedshibil-123/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Muhammedshibil-123/leetcode/tree/master/0541-reverse-string-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Muhammedshibil-123/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Muhammedshibil-123/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammedshibil-123/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Muhammedshibil-123/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Muhammedshibil-123/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Muhammedshibil-123/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Muhammedshibil-123/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammedshibil-123/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Muhammedshibil-123/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Muhammedshibil-123/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Muhammedshibil-123/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0977-squares-of-a-sorted-array](https://github.com/Muhammedshibil-123/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2974-minimum-number-game](https://github.com/Muhammedshibil-123/leetcode/tree/master/2974-minimum-number-game) |
 | [3024-type-of-triangle](https://github.com/Muhammedshibil-123/leetcode/tree/master/3024-type-of-triangle) |
